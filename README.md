@@ -1,4 +1,4 @@
-# FPGAStopwatch
+# FPGA Stopwatch
 Simple multi-mode stopwatch for the Basys3 FPGA Eval Board written for UT Austin's ECE 316 (Digital Logic Design) by April Douglas and Jenna Jacob
 
 ## File Description
